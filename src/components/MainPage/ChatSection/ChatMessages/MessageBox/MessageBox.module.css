@@ -1,0 +1,12 @@
+.messageTime{
+    color: gray;
+    float: left;
+    margin-top: -10px;
+    font-size: 12px;
+}
+.messageBox{
+    max-width: 75%;
+ min-width: 25%;
+    border-radius: 10px;
+    background-color: rgb(220,248,198) ;
+}

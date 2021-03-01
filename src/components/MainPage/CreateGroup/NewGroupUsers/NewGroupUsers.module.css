@@ -1,0 +1,40 @@
+.selectedUsersPills{
+    background-Color: gray;
+    white-Space: nowrap;
+    min-width: 0;
+    max-width: calc(100% - 6px);
+}
+.topEl{
+    background-Color: rgb(237,237,237);
+    text-Align: right;
+}
+.header{
+    max-Height: 14%;
+    height: 14%;
+    background-Color: lightgreen
+}
+.body{
+    height: '86%' 
+}
+.pillsContainer{
+    overflow-Y: auto;
+    overflow-x: hidden;
+    max-Height: 40%;
+    background-Color: rgb(255,255,255);
+    min-width: 0px;
+    
+}
+.userDiv{
+    border: 1px solid lightgray
+}
+.userDivsContainer{
+    overflow-Y: auto;
+    flex: 1 ;
+    background-Color: rgb(255,255,255)
+}
+.footer{
+    overflow-Y: auto;
+    max-Height: 30%;
+    padding-Bottom: 32px;
+    margin-Top: 28px;
+}

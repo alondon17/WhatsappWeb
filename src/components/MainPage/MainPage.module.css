@@ -1,0 +1,13 @@
+.topEl{
+    overflow-Y:auto
+}
+.groupsSection{
+    width:35%;
+    min-Width:250px;
+    height:100%
+}
+.chatSection{
+    width:65%;
+    min-Width:400px;
+    height:100%
+}

@@ -1,0 +1,17 @@
+.topEl{
+    overflow-Y: auto;
+    background-Color: rgb(237,237,237)
+}
+.header{
+    max-Height: 14%;
+    min-height: 50px;
+    height: 14%;
+    background-Color: lightgreen
+}
+.body{
+    height: 86%
+}
+.resultsContainer{
+    flex: '1';
+    overflow-y: auto;
+}

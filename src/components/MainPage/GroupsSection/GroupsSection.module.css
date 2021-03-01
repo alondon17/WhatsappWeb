@@ -1,0 +1,16 @@
+.topEl{
+    position: relative;
+    overflow: hidden;
+}
+.overlay{
+    position: absolute;
+    z-Index: 1;
+    pointer-Events: none
+}
+.overlayEl{
+    pointer-Events: auto
+}
+.underlay{
+    position: absolute;
+    z-Index: 0
+}

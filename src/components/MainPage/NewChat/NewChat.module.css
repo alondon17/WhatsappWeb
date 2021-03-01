@@ -1,0 +1,19 @@
+.topEl{
+    background-Color: rgb(237,237,237);
+    text-Align: right;
+}
+.header{
+    max-Height: 14%;
+    height: 14%;
+    background-Color: lightgreen;
+}
+.body{
+    height: 86%;
+    flex: 1;
+    overflow-Y: auto;
+    overflow-x: hidden;
+    background-Color: rgb(255,255,255)
+}
+.userDiv{
+    border: 1px solid lightgray
+}

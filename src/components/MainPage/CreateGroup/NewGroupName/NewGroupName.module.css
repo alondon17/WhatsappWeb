@@ -1,0 +1,27 @@
+.topEl{
+    background-color: rgb(237,237,237);
+    text-align: right
+}
+.header{
+    max-height: 14%;
+    height: 14%;
+    background-color: lightgreen;
+}
+.body{
+    height: 86%;
+    overflow-y: auto;
+}
+.input{
+    border: 0;
+    border-Bottom: 2px solid teal;
+}
+.inputContainer{
+    overflow-Y: auto;
+    background-Color: rgb(255,255,255);
+}
+.buttonContainer{
+    overflow-Y: auto;
+    max-Height: 30%;
+    padding-Bottom: 32px;
+    margin-Top: 28px;
+}

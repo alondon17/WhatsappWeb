@@ -1,0 +1,48 @@
+.topEl{
+    overflow-Y: auto;
+    background-Color: rgb(237,237,237)
+}
+.header{
+    max-Height: 14%;
+    min-Height: 50px;
+
+    height: 14%;
+    background-Color: lightgreen;
+}
+.body{
+    height: 86%;
+    overflow-Y: auto
+}
+.imgParent{
+    margin-Top: 28px;
+
+    margin-Bottom: 28px;
+    justify-Content: center
+}
+.profileImg{
+    border-Radius: 50%;
+    position: relative;
+    cursor: pointer
+}
+.inputContainer{
+    background-Color: white;
+    padding: 14px 30px 10px
+}
+.inputLabel{
+    color: rgb(0,150,136);
+    font-Weight: 400
+}
+.inputBorder{
+   border-bottom: 2px solid rgb(0,191,165);
+}
+.input{
+    flex: 1;
+    user-Select: text;
+    outline: none;
+}
+.inputButton{
+    width: 24px
+}
+.mirrorImg{
+    transform: scaleX(-1);
+}

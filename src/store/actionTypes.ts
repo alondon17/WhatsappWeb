@@ -1,0 +1,7 @@
+export enum actionTypes{
+// CHANGE_USER = 'SET_USER',
+//  LOGOUT = 'LOGOUT',
+//  CHANGE_CURR_CHAT = 'CHANGE_CURR_CHAT',
+//  SET_GROUPS = 'SET_GROUPS',
+//  SET_GROUPS_SCREEN = 'SET_GROUPS_SCREEN'
+}

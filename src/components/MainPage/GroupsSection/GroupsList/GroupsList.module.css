@@ -1,0 +1,9 @@
+.header{
+    height: 59px;
+    background-Color: rgb(237,237,237)
+}
+.groupsList{
+    overflow-Y: auto;
+    overflow-X: hidden;
+    flex-Grow: 1
+}
